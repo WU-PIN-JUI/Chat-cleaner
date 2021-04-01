@@ -1,4 +1,4 @@
 # youtube-wash
 # How to get
-# 1. git
-    git clone 
+# git
+    git clone https://github.com/WU-PIN-JUI/youtube-wash.git
